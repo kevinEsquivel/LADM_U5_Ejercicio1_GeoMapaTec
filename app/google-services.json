@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609857929230",
+    "project_id": "geoposicion-41d64",
+    "storage_bucket": "geoposicion-41d64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609857929230:android:ac12991fbac73c7610fc5f",
+        "android_client_info": {
+          "package_name": "com.example.ladm_u5_ejercicio1_geomapatec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609857929230-b1v4dbqrs7luilsmad425krtfkfpmno9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjE0_TU53fDqL7RVRJMmQyV5oReJwn7as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609857929230-b1v4dbqrs7luilsmad425krtfkfpmno9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

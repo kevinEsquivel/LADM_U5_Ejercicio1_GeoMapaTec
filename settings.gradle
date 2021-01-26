@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "LADM_U5_Ejercicio1_GeoMapaTec"
